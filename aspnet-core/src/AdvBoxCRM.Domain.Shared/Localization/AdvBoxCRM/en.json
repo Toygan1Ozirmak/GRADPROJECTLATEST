@@ -1,0 +1,16 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io.",
+    "AdvBoxCRM:00001": "There is already an Box Adress with the same Box Adress: {boxAdress}",
+    "AdvBoxCRM:00002": "There is already an Employee Name with the same Name: {employeeName}",
+    "AdvBoxCRM:00003": "There is already an Guest Name with the same Name: {guestName}",
+    "Permission:Boxes": "Box Management",
+    "Permission:Boxes.Create": "Creating new boxes",
+    "Permission:Boxes.Edit": "Editing the boxes",
+    "Permission:Boxes.Delete": "Deleting the boxes"
+
+  }
+}
